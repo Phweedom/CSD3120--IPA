@@ -15,24 +15,28 @@ The project also includes creating a web app using modified code and testing it.
 
 Ensure that all of these dependencies are updated to the latest version by running the following commands:
 
-sudo apt-get update
-sudo apt-get upgrade
+- sudo apt-get update
+- sudo apt-get upgrade
 
 
 Install the project dependencies using the following command:
 
-npm install
+- npm install
 
 
 ## Usage
 
 To build the project, run the following command:
 
-npm run build
+- npm run build
+
+To build the project extension, run the following command:
+
+- npm run build-ext
 
 To run the web app, use the following command:
 
-npm run serve
+- npm run serve
 
 ## Changes Made
 
@@ -48,7 +52,7 @@ The web app has been tested and can be created using the modified code.
 
 ## Video
 
-A video of the project can be found in the `assets/assets/2001237_Zhuo Yijian/videos/0.webm` directory.
+A video of the project can be found in the `assets/assets/2001237_ZhuoYijian/videos/0.webm` directory.
 
 ## Conclusion
 

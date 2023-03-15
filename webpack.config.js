@@ -18,8 +18,8 @@ module.exports = {
     mode: "development",
     devtool: 'inline-source-map',
     devServer: {
-        static: false,
-        port: 3000,
+        //static: false,
+        port: 9000,
 
     },
     plugins: [
