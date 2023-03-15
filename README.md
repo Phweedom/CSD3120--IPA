@@ -1,6 +1,6 @@
 # CSD3120--IPA
 
-#Individual Progamming Assignment (IPA)
+# Individual Progamming Assignment (IPA)
 
 This project is for the assignment in the CSD3120 course by Zhuo Yijian (Student ID: 2001237). 
 It involves setting up a Linux environment with WSL and installing npm and Node.js. 
