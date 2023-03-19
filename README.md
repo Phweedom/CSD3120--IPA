@@ -42,6 +42,8 @@ To run the web app, use the following command:
 
 The `createScene` function has been renamed to `createXRScene` to match the project requirements.
 
+Update for IPA Part B.
+
 ## Documentation
 
 Documentation for the `createXRScene` function is available.
@@ -85,11 +87,16 @@ Wrote the code, but having issue with the controller selecting the Mesh so unabl
 ## B6
 
 Able to virtually navigate the virtual environment with a locomotion teleport method using controller's "Squeeze Button".
+A circle will pop up indication the location and squeeze the trigger to move.
 
 ## Integrated XRAuthor
 
 run - > npm run build-ext
 put the files in "dist/ext" upload onto XRAuthor.
+
+## Tutorial Video
+
+Aiming the controller ray at the video you can squeeze the trigger once to either play/pause the video.
 
 ## Conclusion
 
