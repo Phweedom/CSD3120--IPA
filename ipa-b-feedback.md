@@ -2,7 +2,7 @@
                                         
 **OVERALL IPA-A + IPA-B Grade**: D+
 
-**IPA-B Grade**: B-
+**IPA-B Grade**: B+
                                         
 ## B1
 complete 3D scene (with (a) a background environment or live video feed and (b) manipulable objects) and clear consistent theme
@@ -24,3 +24,6 @@ both desktop and an additional form of locomotion interaction exist and works we
                                         
 ## Other feedback
 No other feedback.
+
+## Integration BONUS
+can load in XRAuthor interface and utilize authoring data in the scene via APIs
